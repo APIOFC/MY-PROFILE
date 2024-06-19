@@ -1,0 +1,463 @@
+[28/5, 20.56] null: AXIS EDU
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Payload: GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Proxy: 104.17.3.81:80
+●━━━━━━━━━━━━━━━━━━━━●
+[28/5, 20.57] null: Tsel Ilmupedia
+├─────────────────
+ • Payload  ⌲ GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+├─────────────────
+ • Proxy  ⌲ 104.26.6.171
+[28/5, 21.04] null: Axis/XL Edukasi
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: edu.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 104.18.106.64:80
+[28/5, 21.06] null: Indosat Edukasi
+Payload : GET / HTTP/1.1[crlf]Host: support.duolingo.com[crlf][crlf]GET-WSS / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]  
+
+Proxy : bugnew.digitalcloud.pw:80
+[28/5, 21.08] null: ╭─────────────────
+│ISAT OPOK
+├─────────────────
+│[ 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 ]
+│ `GET http://myim3-he.ioh.co.id/api/v1/token/hetoken HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]X@p`
+├─────────────────
+│[ 𝐏𝐫𝐨𝐱𝐲 ]
+│ `hostssh:80`
+├─────────────────
+[28/5, 21.11] null: AXIS XL VIDIO
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Payload: GET / HTTP/1.1[crlf]Host: support.duolingo.com[crlf][crlf]GET-WSS / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]p�Bo
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Proxy: quiz.staging.vidio.com:80
+●━━━━━━━━━━━━━━━━━━━━●
+➩ SNI: cf.shopee.co.id
+●━━━━━━━━━━━━━━━━━━━━●
+[28/5, 21.11] null: Tsel Ilmupedia
+├─────────────────
+ • Payload  ⌲ GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+├─────────────────
+ • Proxy  ⌲ 104.26.6.171
+[28/5, 21.12] null: Axis Conference 
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: falsasep.zoom.us[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 1[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: zoomcares.zoom.us:80
+[29/5, 11.34] null: Axis Game
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: PACTH / HTTP/1.1[crlf]Host: [host][crlf]Host: support.zendesk.com [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: hostssh:80
+[29/5, 11.37] null: Axis Sushirol
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: blog.sushiroll.co.id[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: blog.sushiroll.co.id:80
+[29/5, 11.37] null: Axis Genflix
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Connection: keep-alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: sg3.socifiles.com:80
+[29/5, 11.37] null: Ruangguru
+[payload] = GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ruangguru.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[proxy_port] = ruangguru.com:80
+[29/5, 11.37] null: Xl YouTube
+[payload] = GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]X@ o
+
+[proxy_port] = 104.22.4.240:80
+[29/5, 11.38] null: Axis/XL Edukasi
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: edu.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 104.18.106.64:80
+[29/5, 11.38] null: Xl Iflix
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: acces.iflix.com:80
+[29/5, 11.38] null: Xl Meeting
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: zoomcares.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: zoomcares.zoom.us:80
+───────•••───────
+[29/5, 11.38] null: Tsel Ilmupedia 3
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: support.zoom.us:80
+───────•••───────
+[29/5, 11.39] null: Tsel Opok
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: dashboard.skul.id[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 104.17.78.107:80
+───────•••───────
+[29/5, 11.39] null: AXIS SOSMED
+[payload] = GET / HTTP/1.1[crlf]Host: support.duolingo.com[crlf][crlf]GET-WSS / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]X@ o
+[proxy_port] = www.help.tinder.com:80
+
+     [sni_ssl] = cf.shopee.co.id
+[29/5, 11.39] null: XL/Axis Opok
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: ovo.id:80
+───────•••───────
+[29/5, 11.40] null: Axis Conference 
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: support.zoom.us:80
+───────•••───────
+[29/5, 18.31] null: Ruang Guru 2
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+[>] 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 : GET /cdn-cgi/trace HTTP/1.1[crlf]Host: id-oc.ruangguru.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[>] 𝐏𝐫𝐨𝐱𝐲 : 104.18.2.2:80
+[29/5, 20.05] null: Axis Xl Flex
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: line.me[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: ava.game.naver.com:80
+───────•••───────
+[29/5, 20.20] null: IlmuPedia 2
+[>] 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 : GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[>] 𝐏𝐫𝐨𝐱𝐲 : 104.18.2.2:8880
+[29/5, 20.28] null: Isat Opok :
+
+[ 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 ] :
+GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+
+[ 𝐏𝐫𝐨𝐱𝐲 ] :
+www.opensignal.com:2082
+[29/5, 20.28] null: Telkomsel Unlimited Opok :
+
+Payload: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+Proxy: 18.161.49.87:80
+[29/5, 22.42] null: Bug Telkomsel Game
+proxy : duniagames.co.id 
+proxy : poe.garena.com 
+proxy : cf-vod.nimo.tv 
+proxy : esport.duniagames.co.id 
+proxy : mpl.mibilelegends.com
+
+Sesuai Daftar pada table Di Atas Game mAx Update
+
+PUT / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]X-Online-Host: gamemax.telkomsel.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: gamemax.telkomsel.com[crlf]CONNECT [host_port] [protocol][crlf][crlf]
+
+Sesuai kan payload dengan daerah anda ya
+
+Proxy : m.nimo.tv
+Proxy : dashboard.nimo.tv
+Proxy : support.pubg.com
+Proxy : dl.cvs.freefiremobile.com
+Proxy : ffsuporte.garena.com
+Proxy : help.garena.com (SSL)
+Proxy : poe.garena.com ( SSL)
+Proxy : privacy.support.miniclip.com
+Proxy : support.miniclip.com
+[29/5, 22.48] null: Axis 0p0k
+
+Metode SSH Websocket 
+  
+  Isi Payload:
+
+GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+  Isi Remote Proxy:
+ovo.id
+www.axis.co.id
+api2.axisnet.id
+
+  Isi Port:
+80 Atau 8880
+[29/5, 22.50] null: Axis Game
+
+isi Payload :
+   
+GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+isi remote proxy :
+cdn.appsflyer.com  Metode SSH (Websocket)
+ava.game.naver.com Metode SSH (Websocket)
+pubgmobile.com     Metode (ssl)
+games.axis.co.id   Metode SSH (Websocket)
+
+Port isi Dengan 80 Atau 8880 Untuk SSH Websocket
+Port isi Dengan 443 Untuk SSL
+[29/5, 22.50] null: Axis Sosmed
+
+proxy : help.tinder.com 
+proxy : 104.16.51.111 
+proxy : 104.16.53.111 
+proxy : 4g.fb.me 
+proxy : blackberry.fb.me 
+proxy : cdn.facebooo.me
+[29/5, 22.50] null: Axis Sushiroll
+ 
+  Gunakan Metode SSH Ws
+Isi Remote Proxy : www.sushiroll.co.id
+Port :Bisa 80 Bisa Juga 8880
+
+Payload :
+
+GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[29/5, 22.50] null: XL Flex All TKP 
+
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝
+PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: line.me[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]
+
+𝐏𝐫𝐨𝐱𝐲 
+sogood.linefriends.com
+
+XL Flex All TKP 
+
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝
+GET / HTTP/1.1[crlf]Host: blog.clova.line.me[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf*2]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket [crlf*2][split]HTTP/1.1 200 OK[crlf*2]
+
+𝐏𝐫𝐨𝐱𝐲
+sogood.linefriends.com:80
+Ava.game.naver.com:80
+df.game.naver.com:80
+[29/5, 22.51] null: XL Vision Jabar 
+
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝
+GET / HTTP/1.1[crlf]Host: cdnodeb.visionplus.id:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf*2]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf*2][split]HTTP/1.1 200 OK[crlf*2]
+
+𝐏𝐫𝐨𝐱𝐲
+cdnodeb.visionplus.id:80
+𝗡𝗯
+ Mode enhanced √
+ Ssh wajib support enhanced √
+
+XL Vision Jateng 
+
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝:
+PATCH / HTTP/1.1[crlf]Host: [host][crlf]Host: okezone.visionplus.id[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]
+
+𝐏𝐫𝐨𝐱𝐲
+104.18.225.52
+
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝2:
+GET / HTTP/1.1[crlf]Host: visionplus.id[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 80[crlf][crlf]
+
+𝐏𝐫𝐨𝐱𝐲
+104.21.58.186
+172.67.206.64
+104.21.235.171
+172.67.192.40
+104.21.73.208
+104.21.235.172
+162.159.128.7
+104.18.225.52
+
+Mode ssh suport enhanced √
+[29/5, 22.58] null: XL Netflix
+Versi V2ray
+address : 104.18.119.155
+Port : 80
+Host : hostsshnya
+Port : 80
+[29/5, 23.00] null: XTRA COMBO LITE 
+[payload] = PATCH / HTTP/1.1[crlf]Host: blog.clova.line.me[crlf][crlf]GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]
+
+[proxy_port] = df.game.naver.com:80 
+
+[sni_ssl] = 1654187443.16
+[30/5, 05.38] null: Three Opok
+≔≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≖≕
+[ > ] 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 : GET /cdn-cgi/trace HTTP/1.1[crlf]Host: www.three.co.id:80[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[ > ] 𝐏𝐫𝐨𝐱𝐲 : 104.18.23.136
+[30/5, 06.05] null: Isat Edukasi 30Gb
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Payload: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: englishtest-stage-7.duolingo.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+➩ Proxy: hostsshnya:80
+●━━━━━━━━━━━━━━━━━━━━●
+[30/5, 10.20] null: Isat Fun Entertainment
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Payload: GET /cdn-cgi/trace HTTP/1.1[crlf]Host:creativeservices.netflix.com[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+●━━━━━━━━━━━━━━━━━━━━●
+➩ Proxy: 104.17.241.25:80
+●━━━━━━━━━━━━━━━━━━━━●
+[31/5, 04.04] null: Axis Sosmed
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 104.16.51.111:80
+───────•••───────
+[31/5, 05.17] null: AXIS XL EDU JATIM
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 104.17.3.81:80
+───────•••───────
+[31/5, 05.18] null: AXIS XL CONFERENCE JABAR
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: support.zoom.us[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 69[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 141.193.213.10:80
+───────•••───────
+[31/5, 05.19] null: AXIS XL MUSIK SPOTIFY 
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: investors.spotify.com:80
+───────•••───────
+[31/5, 05.49] null: XL VISION JABAR
+Payload: GET / HTTP/1.1[crlf]Host: cdnodeb.visionplus.id[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf*2]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf*2][split]HTTP/1.1 200 OK[crlf*2]
+
+Proxy: cdnodeb.visionplus.id:80
+[31/5, 05.50] null: SMART OPOK
+Payload: GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+
+Proxy: www.northlink.co.za:80
+[31/5, 05.51] null: TRI OPOK
+-----------○○○○○○○○-----------
+[payload] = GET / HTTP/1.1[crlf]Host: [host_port][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]
+-----------○○○○○○○○-----------
+[proxy_port] = 104.21.22.52:80
+-----------○○○○○○○○-----------
+[31/5, 08.19] null: AXIS XL NETFLIX 
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: HEAD /cdn-cgi/trace HTTP/1.1[crlf]Host: creativeservices.netflix.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/ 200[crlf][crlf]
+───────•••───────
+ [🇧🇴] 𝐏𝐫𝐨𝐱𝐲: cache.netflix.com:80
+───────•••───────
+[31/5, 15.32] null: VIDIO/XCL/XCP ( Tester )
+───────────────────────
+Bug :
+Subdomain IP Cloudflare
+content.facebookinc.com 104.17.74.206 CloudFlare is on
+facebookinc.com 185.60.216.15 CloudFlare is off
+fmp.facebookinc.com 104.17.70.206 CloudFlare is on
+go-research.facebookinc.com 104.17.74.206 CloudFlare is on
+go.facebookinc.com 104.17.71.206 CloudFlare is on
+oculusforbusiness.facebookinc.com 104.17.71.206 CloudFlare is on
+oculusweb.facebookinc.com 104.17.70.206 CloudFlare is on
+upp.facebookinc.com 104.17.71.206 CloudFlare is on
+
+Notes :
+Test sendiri dan racik sendiri
+[31/5, 20.19] null: OPOK UDP ALL
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: CONNECT http://tsel.me/worryfree HTTP/1.1[crlf]Host: facebook.com[crlf]X-Online-Host: tsel.me/worryfree[crlf]X-Forward-Host: tsel.me/worryfree[crlf]X-Forward-Host: facebook.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐒𝐍𝐈: [host]
+───────•••───────
+[31/5, 20.20] null: BYU OPOK
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: space.byu.id:80
+───────•••───────
+[1/6, 17.23] null: GATAU BUG APAA, 
+COBA AJA UNTUK ISAT, XL AXIS
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET wss://[host]/ HTTP/1.1[crlf]Host: sogood.linefriends.com[crlf]Content-Lenght: Created by @Ridhoizzi 1995[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: sogood.linefriends.com:80
+───────•••───────
+[1/6, 17.26] null: AXIS KZL CHAT
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: MOVE wss://[host]/ HTTP/1.1[crlf]Host: line.naver.jp[crlf]GET http://naver.com/ HTTP/1.1[crlf]Host: line.meUpgrade: x\nHTTP/ 1\n
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: isp.cloudflare.com:8880
+───────•••───────
+[1/6, 17.59] null: XL VIDIO
+
+Payload: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: quiz.staging.vidio.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+
+Proxy : quiz.staging.vidio.com:80
+[1/6, 23.25] null: nah proxy hijau masih aktif.
+172.67.129.89
+188.114.98.233
+188.114.97.1
+[2/6, 13.30] null: Opok indosat
+GET http://myim3-he.ioh.co.id/api/v1/token/hetoken HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[2/6, 22.01] null: Isat Unli
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: www.opensignal.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐒𝐍𝐈: cf.shopee.co.id.sea-sw.swiftserve.com
+───────•••───────
+[2/6, 22.01] null: ISAT EDUKASI USV
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: support.duolingo.com[crlf][crlf]GET-RAY / [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/1.1 200 OK[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: bugnew.digitalcloud.pw:80
+───────•••───────
+𝐃𝐍𝐒 HOST: mobileads.google.com
+───────•••───────
+[2/6, 22.01] null: ISAT EDU APPS 30GB
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: support.duolingo.com[crlf][crlf]GET-WSS / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]
+───────•••───────
+PROXY : bugnew.digitalcloud.pw:80
+───────•••───────
+[2/6, 22.02] null: Isat Opok Token
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET http://myim3-he.ioh.co.id/api/v1/token/hetoken HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐒𝐍𝐈: www.opensignalmaps.com
+───────•••───────
+[2/6, 22.02] null: Isat Opok Direct 
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET http://myim3-he.ioh.co.id/api/v1/token/hetoken HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐒𝐍𝐈: chat.whatsapp.com
+───────•••───────
+[2/6, 22.02] null: Indosat Opok 99x
+───────•••───────
+Payload : GET http://myim3-he.ioh.co.id/api/v1/token/hetoken HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+Proxy : hostssh:80
+───────•••───────
+[2/6, 22.07] null: AXIS XL SUSHIROL
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: keep-alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: blog.sushiroll.co.id:80
+───────•••───────
+[2/6, 22.07] null: XCP NEW
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: 104.18.40.232:80
+───────•••───────
+[3/6, 12.04] null: BYU OPOK
+───────•••───────
+Payload: GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+Proxy: space.byu.id:80
+───────•••───────
+[3/6, 20.35] null: AXIS GENFLIX
+───────•••───────
+𝐏𝐚𝐲𝐥𝐨𝐚𝐝: GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Connection: keep-alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+───────•••───────
+𝐏𝐫𝐨𝐱𝐲: sg3.socifiles.com:80
+───────•••───────
+[6/6, 11.13] null: INDOSAT EDUKASI NEW
+━━━━━━━━━━━━━━━━━━━
+PAYLOAD
+GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [crlf][crlf]GET-RAY / [protocol][crlf]Host: www.honda.com.[host][crlf]Connection:Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/1.1 200 OK[crlf][crlf]
+━━━━━━━━━━━━━━━━━━━
+PROXY : 104.18.16.230:80
+━━━━━━━━━━━━━━━━━━━
+[6/6, 11.23] null: Payload :
+GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api.webex.com[crlf][crlf]GET-RAY / [protocol][crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf][split]HTTP/1.1 200 OK[crlf][crlf]
+
+Proxy :
+• 104.18.16.230:80
+• 141.193.213.20:80
+
+Notes : 
+• Ga semuanya support TKP
+
+──────────────────────
+[6/6, 19.44] null: AXIS OPOK UNLI
+[火] Payload ≽ GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+[火] Proxy ≽ staging.games.axis.co.id:80
